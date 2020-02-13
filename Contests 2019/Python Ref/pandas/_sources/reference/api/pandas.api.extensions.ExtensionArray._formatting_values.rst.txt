@@ -1,0 +1,6 @@
+pandas.api.extensions.ExtensionArray.\_formatting\_values
+=========================================================
+
+.. currentmodule:: pandas.api.extensions
+
+.. automethod:: ExtensionArray._formatting_values
