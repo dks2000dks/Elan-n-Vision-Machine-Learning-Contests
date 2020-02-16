@@ -1,4 +1,4 @@
-### DEEPNИꟼƎƎᗡ
+### DEEPN
 
 **Description:**
 
