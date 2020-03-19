@@ -1,4 +1,4 @@
-### Machine Learning Contest
+# Machine Learning Contest
 
 **Description:**
 
